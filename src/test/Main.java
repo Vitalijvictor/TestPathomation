@@ -6,5 +6,6 @@ public class Main {
         System.out.println("Check for Jenkins");
         System.out.println("1 config");
         System.out.println("2 config");
+        System.out.println("3 config");
     }
 }
