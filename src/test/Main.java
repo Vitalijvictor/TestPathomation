@@ -7,5 +7,6 @@ public class Main {
         System.out.println("1 config");
         System.out.println("2 config");
         System.out.println("3 config");
+        System.out.println("4 config");
     }
 }
