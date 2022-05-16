@@ -11,5 +11,6 @@ public class Main {
         System.out.println("5 config");
         System.out.println("6 config");
         System.out.println("7 config");
+        System.out.println("8 config");
     }
 }
